@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="0%p"
+    android:verticalGap="0%p"
+
+
+    android:keyHeight="39dp">
+
+    <Row>
+        <Key android:codes="-10000"
+            android:keyIcon="@drawable/ic_baseline_keyboard_arrow_left_24"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"/>
+
+        <Key
+            android:codes="10"
+            android:keyLabel=""
+            android:keyWidth="70%p"/>
+
+        <Key android:codes="-5"
+            android:keyIcon="@drawable/ic_baseline_keyboard_backspace_24"  android:keyEdgeFlags="right"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-1001" android:keyLabel="V-подъемы"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-1002" android:keyLabel="" />
+        <Key android:codes="-1003" android:keyLabel="" />
+        <Key android:codes="-1004" android:keyLabel="" />
+        <Key android:codes="-1005" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>1
+1
+    <Row>1
+        <Key android:codes="-1006" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-1007" android:keyLabel="" />
+        <Key android:codes="-1008" android:keyLabel="" />
+        <Key android:codes="-1009" android:keyLabel="" />
+        <Key android:codes="-1010" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>1
+1
+    <Row>1
+        <Key android:codes="-1011" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-1012" android:keyLabel="" />
+        <Key android:codes="-1013" android:keyLabel="" />
+        <Key android:codes="-1014" android:keyLabel="" />
+        <Key android:codes="-1015" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>1
+1
+    <Row>1
+        <Key android:codes="-1016" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-1017" android:keyLabel="" />
+        <Key android:codes="-1018" android:keyLabel="" />
+        <Key android:codes="-1019" android:keyLabel="" />
+        <Key android:codes="-1020" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>1
+1
+    <Row>1
+        <Key android:codes="-1021" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-1022" android:keyLabel="" />
+        <Key android:codes="-1023" android:keyLabel="" />
+        <Key android:codes="-1024" android:keyLabel="" />
+        <Key android:codes="-1025" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>1
+1
+    <Row>1
+        <Key android:codes="-1026" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-1027" android:keyLabel="" />
+        <Key android:codes="-1028" android:keyLabel="" />
+        <Key android:codes="-1029" android:keyLabel="" />
+        <Key android:codes="-1030" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>1
+1
+
+
+
+</Keyboard>

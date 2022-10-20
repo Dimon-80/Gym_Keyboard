@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="0%p"
+    android:verticalGap="0%p"
+
+
+    android:keyHeight="39dp">
+
+    <Row>
+        <Key android:codes="-10000"
+            android:keyIcon="@drawable/ic_baseline_keyboard_arrow_left_24"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"/>
+
+        <Key
+            android:codes="10"
+            android:keyLabel=""
+            android:keyWidth="70%p"/>
+
+        <Key android:codes="-5"
+            android:keyIcon="@drawable/ic_baseline_keyboard_backspace_24"  android:keyEdgeFlags="right"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-601" android:keyLabel="_со шт"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-602" android:keyLabel="_с EZ-шт" />
+        <Key android:codes="-603" android:keyLabel="_гант стоя" />
+        <Key android:codes="-604" android:keyLabel="_гант сидя" />
+        <Key android:codes="-605" android:keyLabel="_в тр-ре" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-606" android:keyLabel="_обр хв"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-607" android:keyLabel="_EZ обр хв" />
+        <Key android:codes="-608" android:keyLabel="Молотки" />
+        <Key android:codes="-609" android:keyLabel="" />
+        <Key android:codes="-610" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-611" android:keyLabel="_ног"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-612" android:keyLabel="" />
+        <Key android:codes="-613" android:keyLabel="" />
+        <Key android:codes="-614" android:keyLabel="" />
+        <Key android:codes="-615" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-216" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-217" android:keyLabel="" />
+        <Key android:codes="-218" android:keyLabel="" />
+        <Key android:codes="-219" android:keyLabel="" />
+        <Key android:codes="-220" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-221" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-222" android:keyLabel="" />
+        <Key android:codes="-223" android:keyLabel="" />
+        <Key android:codes="-224" android:keyLabel="" />
+        <Key android:codes="-225" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-226" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-227" android:keyLabel="" />
+        <Key android:codes="-228" android:keyLabel="" />
+        <Key android:codes="-229" android:keyLabel="" />
+        <Key android:codes="-230" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+
+
+
+</Keyboard>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="0%p"
+    android:verticalGap="0%p"
+
+
+    android:keyHeight="39dp">
+
+    <Row>
+        <Key android:codes="-10000"
+            android:keyIcon="@drawable/ic_baseline_keyboard_arrow_left_24"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"/>
+
+        <Key
+            android:codes="10"
+            android:keyLabel=""
+            android:keyWidth="70%p"/>
+
+        <Key android:codes="-5"
+            android:keyIcon="@drawable/ic_baseline_keyboard_backspace_24"  android:keyEdgeFlags="right"
+            android:keyWidth="15%p"
+            android:isRepeatable="true"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-701" android:keyLabel="_ног в тр-ре"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-702" android:keyLabel="_назад в тр-ре" />
+        <Key android:codes="-703" android:keyLabel="_назад в кр-ре" />
+        <Key android:codes="-704" android:keyLabel="" />
+        <Key android:codes="-705" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-706" android:keyLabel="П ст"  android:keyEdgeFlags="left"/>
+        <Key android:codes="-707" android:keyLabel="П ст в накл" />
+        <Key android:codes="-708" android:keyLabel="_в тр" />
+        <Key android:codes="-709" android:keyLabel="_в тр з д" />
+        <Key android:codes="-710" android:keyLabel="_н ск" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-711" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-712" android:keyLabel="" />
+        <Key android:codes="-713" android:keyLabel="" />
+        <Key android:codes="-714" android:keyLabel="" />
+        <Key android:codes="-715" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-716" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-717" android:keyLabel="" />
+        <Key android:codes="-718" android:keyLabel="" />
+        <Key android:codes="-719" android:keyLabel="" />
+        <Key android:codes="-720" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-721" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-722" android:keyLabel="" />
+        <Key android:codes="-723" android:keyLabel="" />
+        <Key android:codes="-724" android:keyLabel="" />
+        <Key android:codes="-725" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-726" android:keyLabel=""  android:keyEdgeFlags="left"/>
+        <Key android:codes="-727" android:keyLabel="" />
+        <Key android:codes="-728" android:keyLabel="" />
+        <Key android:codes="-729" android:keyLabel="" />
+        <Key android:codes="-730" android:keyLabel="" android:keyEdgeFlags="right"/>
+    </Row>
+
+
+
+
+</Keyboard>

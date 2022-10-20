@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.3578125" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24.xml" value="0.20520833333333333" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/drawable/ic_baseline_keyboard_return_24.xml" value="0.3578125" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/drawable/ic_baseline_space_bar_24.xml" value="0.3578125" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/drawable/ic_outline_keyboard_arrow_right_24.xml" value="0.20520833333333333" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/drawable/ic_sharp_keyboard_return_24.xml" value="0.3578125" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/layout/key_preview.xml" value="0.3416666666666667" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/layout/keyboard_preview.xml" value="0.18854166666666666" />
+        <entry key="..\:/My_Projects/GymKeyboard/app/src/main/res/layout/keyboard_view.xml" value="0.3416666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
